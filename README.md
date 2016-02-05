@@ -1,2 +1,2 @@
-# manifold_learning
-dimensionality reduction over 275 dimensions dataset
+#__dimensionalty reduction__
+dimensionality reduction over a 275 dimensions space dataset
