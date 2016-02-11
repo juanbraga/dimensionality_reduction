@@ -86,7 +86,7 @@ n_features, n_sample = X.shape
 n_neighbors = 2
 clases = np.load('clases.npy')
 caract = np.load('caract.npy')
-color = np.empty(y.shape)
+color = np.empty(len(y))
 for i in range(0,9):
     color[y==clases[i]] = i
 
